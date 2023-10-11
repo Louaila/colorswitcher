@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+margin: 0;
+}
+
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+main div h1{
+    color: white;
+}
+main div{
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+button{
+
+padding: 10px;
+margin: 15px;
+background-color: white;
+border-radius: 5px;
+
+
+
+}
+
+span{
+
+    color: cornflowerblue;
+}
+
+
+
